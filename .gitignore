@@ -1,0 +1,4 @@
+.env
+discord.log
+Players.JSON
+__pycache__/
